@@ -16,7 +16,6 @@ class NameFinder {
     }
 
     getPeopleList(apiResponseObject) {
-        let names = [];
         let apiResponseText = "";
 
         apiResponseObject.articles.forEach((article) => {
