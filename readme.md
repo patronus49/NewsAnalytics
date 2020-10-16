@@ -28,12 +28,6 @@ The project hierarchy is as follows:
    > 1: pixel 4a launch in india
    response -> News:" pixel 4a launch in india " seems to be: true
    > 2: america
-   [ 'Donald Trump,',
-  'Jon Cohen',
-  'Ava Emhoff,',
-  'Inari Williams,',
-  'Ron House,',
-  'John',
-  'Jackson',
-  'Christian Meissner' ]
+   response -> > Famous People for Category:  america
+        Donald Trump,Jon Cohen,Ava Emhoff,Inari Williams,Ron House,John,Jackson
     ```
