@@ -1,0 +1,25 @@
+{
+  "name": "news_analytics",
+  "version": "1.0.0",
+  "description": "NodeJS command line program for anylising news, current features include, 1. fake news detection 2. get most higlightes people in news",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake",
+    "news",
+    "news",
+    "fake"
+  ],
+  "author": "Ketan Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^13.6.0",
+    "dotenv": "^8.2.0",
+    "newsapi": "^2.4.1",
+    "sentence-similarity": "^3.0.2",
+    "similarity-score": "^1.0.0"
+  }
+}
